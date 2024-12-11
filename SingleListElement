@@ -1,0 +1,4 @@
+public class SingleLinkedListElement {
+    int value;
+    SingleLinkedListElement next = null;
+}
